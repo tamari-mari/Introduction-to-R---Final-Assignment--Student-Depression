@@ -35,7 +35,7 @@ To test my hypothesis, I will use the following variables:
 - Depression – dummy variable. 0 = no depression, 1 = depression.
 - Financial stress – numeric variable. Financial stress is rated on a Likert scale of 1-5.
 - Academic pressure – numeric variable. Academic pressure is rated on a Likert scale of 1-5.
-- 
+
 Financial stress and academic pressure were defined as numeric to allow for linear and logistic regression analysis. 
 
 2.2 **Processing variables.**
