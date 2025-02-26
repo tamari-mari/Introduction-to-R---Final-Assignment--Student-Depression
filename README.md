@@ -1,7 +1,7 @@
 # **Introduction to R – Final Assignment: Student Depression**
 
 
-## **Part 1: Defining The Research Question**
+## **Part 1: Data Exploration**
 
 1.1 **Dataset.** 
 
