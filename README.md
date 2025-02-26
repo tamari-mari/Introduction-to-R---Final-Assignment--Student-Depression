@@ -1,7 +1,7 @@
-**Introduction to R – Final Assignment: Student Depression**
+# **Introduction to R – Final Assignment: Student Depression**
 
 
-**Part 1: Defining The Research Question**
+## **Part 1: Defining The Research Question**
 
 1.1 **Dataset.** 
 
@@ -27,7 +27,7 @@ so that higher levels of financial and academic stress lead to a higher rise in 
 I also estimate that students who have been long suffering from depression could be experiencing higher levels of financial and academic stress as a result of their already poor mental state. 
 
 
-**Part 2: Pre-Processing**
+## **Part 2: Pre-Processing**
 
 2.1 **Defining variables.**
 To test my hypothesis, I will use the following variables:
@@ -51,7 +51,7 @@ For the extra function, I used two new packages: “skimr” and “e1071”. Us
 use of summary() and easier to read compared to str(). Another advantage of these packages is the inclusion of additional information, such as skewness, 
 which can be used to identify abnormal dispersion of numeric variables. 
 
-**Part 3: Data Analysis**
+## **Part 3: Data Analysis**
 
 3.1 **Linear and logistic regression.**
 To test my hypothesis, I ran two linear regressions with depression as an independent variable, testing its effect first on financial stress and then on academic pressure. 
